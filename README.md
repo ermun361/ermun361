@@ -67,7 +67,7 @@
 
 <!-- 5. PINNED PROJECTS -->
 ## 🚀 My Pinned Projects
-<p align="center"><em>(Here you can pin your best projects. Use the ideas above as inspiration!)</em></p>
+<p align="center"><em></em></p>
 <table width="100%">
   <tr>
     <td width="50%">
